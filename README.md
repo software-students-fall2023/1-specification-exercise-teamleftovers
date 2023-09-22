@@ -6,10 +6,10 @@ A little exercise to get started with the specification phase of the software de
 
 For the link to Github Profiles, click the names.
 
-[Emos Ker](https://github.com/Capksz)
-Ryan Zhang
-Ivan
-Jeffrey  
+- [Emos Ker](https://github.com/Capksz)
+- Ryan Zhang
+- Ivan
+- Jeffrey  
 
 ## Stakeholders
 
