@@ -4,7 +4,12 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+For the link to Github Profiles, click the names.
+
+[Emos Ker](https://github.com/Capksz)
+Ryan Zhang
+Ivan
+Jeffrey  
 
 ## Stakeholders
 
