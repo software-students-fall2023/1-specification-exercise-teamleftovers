@@ -8,7 +8,7 @@ For the link to Github Profiles, click the names.
 
 - [Emos Ker](https://github.com/Capksz)
 - [Ryan Zhang](https://github.com/CouriersRyan)
-- Ivan
+- [Ivan Jing](https://github.com/IvanJing)
 - Jeffrey  
 
 ## Stakeholders
