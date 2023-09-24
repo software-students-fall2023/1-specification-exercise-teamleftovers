@@ -117,7 +117,7 @@ For the link to Github Profiles, click the names.
   
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An empathetic safe space that nurtures wellness, positivity and community morale through positive messages, human connection and wellness reminders. 
 
 ## User Requirements
 
