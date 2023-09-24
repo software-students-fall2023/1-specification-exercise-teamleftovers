@@ -41,7 +41,79 @@ For the link to Github Profiles, click the names.
 - They feel that the issue they have with Discord is that it can be hard joining into on very active conversations, and they often don't stay on topic of the channel.
 - It is hard to form lasting connections in anonymous chat.
 
-  
+
+
+### Discord and Twitch TV moderator - Moderator
+#### Date: 9/23/2023
+#### Goals/Needs:
+- Users should clearly be able to find tools for reporting and providing feedback to the moderators.
+- Rules of the community should be clearly stated and easily visible for users.
+- Having a platform where tools can easily be added for moderation will help tremendously.
+- A user should get a clear confirmation from reports, stating that the report has been submitted or even next steps taken by the team.
+#### Problems/Frustrations:
+- Differentiating between hurtful remarks and playful comments can be challenging due to language nuances, like sarcasm.
+- Handling the feelings of the user can be challenging due to different perceptions and emotions. Maintaining neutrality can be difficult.
+- Determining the severity of punishment is hard when rules and consequences are not clearly defined in the community.
+- Achieving consistency in punishments for moderators can be hard without set rules or if the moderators have different opinions on a matter.
+#### Other notes:
+##### Tools and Features used by Moderators:
+- Timeouts
+- Bans
+- Chat history accessibility
+- Warnings
+##### Efficient feedback systems:
+- Community rules and guidelines with consequences clearly listed
+- Using both bot and human moderators to address simple and complex situations
+- Consistency and fairness in decisions
+##### Criteria for Inappropriate Content
+- Based on community rules, and common sense (e.g. Racism, direct insults)
+- Bots can detect inappropriate language well
+- Context and chat log analysis
+##### Severity of Punishments
+- Severity is determined based on past behavior, type of violation, intent, community comfort, number of reports and other methods...
+##### Regulating Bots
+- Bots often spam links, including scams and adverts
+- Blacklisting words or specific counter-bots are effective in addressing such issues
+
+
+### Philanthropic College Student - End User
+#### Date: 9/23/2023
+#### Goals/Needs:
+- Users should feel safe when using the platform.
+- When sharing frustrations on the platform, replies should make the user feel heard.
+- Would like the app to brigthen their day somehow.
+- The app should give them an opportunity to help other people out.
+#### Problems/Frustrations:
+- Feels like there is lack of apps that help people feeling overwhelmed.
+- Finds that advice or solutions are sometimes needed from others when facing a challenge in life.
+- Finds that there is a lack of apps that help navigate or guide a person to become the person they aspire to be.
+- Notices that there is alot of people who are trying to finding their purpose in life, but struggling to.
+#### Other notes:
+##### Sharing Feelings:
+- Prefers to go to different type of people depending on their problems
+- Can appreciate anonymous responses for unbiased opinions, but is concerned about the effectiveness anonymous responses as they are not specific to the situation
+##### Desired Responses during Challening Times:
+- Empathetic reponses that acknowledge their difficulties
+- Reassuring messages such as "There is always a tomorrow"
+- Potential solutions if sought for by the asker
+- Words that signal to the user that they are heard
+- Jokes in the correct situation can uplift the user
+- Responder can either ask probing questions to dive deeper into the problem, or simply listen and acknowledge feelings
+- Authentic human interaction is always more valuable than bot messages
+##### Effective Ways to Cheer Up Others Online:
+- Focus on conveying love through words by showing genuine concern and indicating that the responder has the desire to be there mentally even if physically apart
+- Anonymity may hinder the geniuneness of the message being conveyed because some might feel that the response is too generic or not in context
+##### Defining a Safe Environment:
+- Neutral or cheerful ambiance
+- Having clear community guidelines
+- Emphasize respect and openess in feelings
+##### Features that Brighten Up Days:
+- Emojis
+- Short videos
+- Daily inspirational quotes
+- Fun facts
+
+
   
 ## Product Vision Statement
 
