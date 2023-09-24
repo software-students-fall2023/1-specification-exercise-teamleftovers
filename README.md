@@ -121,7 +121,29 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+- As a user, I want to be able to share positive messages so I can help others going through a difficult time.
+  - Estimation of Effort: Medium
+  - Acceptance Criteria:
+    1. Ability to respond to messages received from others
+    2. Option to leave positive messages at a certain location
+    3. Allow the sharer to categorize the message
+    4. Counter or feedback response for responder to see if the message was helpful
+- As a user, I want to feel safe emotionally on the platform so I can share vulnerable feelings and receive help.
+  - Estimation of Effort: Low
+  - Acceptance Criteria:
+    1. Community guidelines are clearly defined and visible to the user
+    2. Reporting or feedback is highly visible to the user
+    3. Clear consequences are reflected in violations
+- As a user, I want to be able receive wellness reminders or tips so I can improve my mental health.
+  - Estimation of Effort: Medium
+  - Acceptance Criteria:
+    1. Option to choose between several features such as daily facts, walk reminders, inspirational quotes
+    2. Sends daily notifications of such reminders to users
+- As a user, I want to be able to receive messages so I can feel heard or get advice from others in times of need.
+  - Estimation of Effort: Medium
+  - Acceptance Criteria:
+    1. Option to pick what type of responses that the user wants to receive
+    2. Ability to write a memo and share it with others automatically as they pass by each other
 
 ## Activity Diagrams
 
