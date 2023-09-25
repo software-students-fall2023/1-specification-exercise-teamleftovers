@@ -180,7 +180,7 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 - As a user, I want seperate sub-platforms to receieve or send positive messages to and from friends or to and from strangers
   - Estimation of Effort: Medium/Hard
     - Acceptance of Criteria:
-      1. Option to have a 'Friends only' and 'Commnity only' section in the app
+      1. Option to have a 'Friends only' and 'Community only' section in the app
 - As a user, I want to create video logs for personal growth
   - Estimation of Effort: Medium/Hard
     - Acceptance of Criteria:
