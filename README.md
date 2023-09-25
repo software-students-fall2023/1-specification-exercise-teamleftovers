@@ -113,6 +113,30 @@ For the link to Github Profiles, click the names.
 - Daily inspirational quotes
 - Fun facts
 
+### Computer Science Student - End User
+#### Date: 9/25/2023
+#### Goals/Needs:
+- Users should be able their information to be annonymous (everything but age, possibly)
+- Feels like users should be able to filter the kind of affirmations or help they receieve
+- Feels like the app should have a way to send affirmations to both friends and strangers
+- Users should receieve content warnings (that is set by the user) when necessary
+- This app would be a good way to make connections in their vicinity
+#### Problems/Frustrations:
+- Filtering out hateful words can be an issue as controlling that would be important to maintain a safe space
+- A user can share an exoerience that is traumatizing for another user and its important to take that into consideration
+- Receieving similar words of encouragement from users can become repetitive
+#### Other notes:
+- An app that mainly focuses on notifications would be more benefical for them
+  - They barely open the 'affirmation' app they use but looks forward to the notifications
+  - Users should be allowed to set the amount of notifications they receieve.
+- For them, the aesthetic does not matter (customization, fancy color palettes, etc.)
+  - They would prefer a simple, nonclustered UI
+- They would like to be able to customize the proximity for recieving or sending messages (somewhere between 800 feet - 0.5 miles)
+- They like taking video logs (on a native app) to help them truly know what words or phrases make them feel a certain way
+  - They prefer this over a voice memo to see their progression on their facial reaction to certain phrases, words, or experiences
+  - A professional, licensed therapist advised them to do try this
+- They would like quick or templated responses and/or emoji reactions as well
+
 
   
 ## Product Vision Statement
