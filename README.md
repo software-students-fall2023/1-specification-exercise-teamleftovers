@@ -187,6 +187,23 @@ An empathetic safe space that nurtures wellness, positivity and community morale
       1. Option to create video logs and playback at a later time. 
       2. Ability to organize video logs by topic or theme 
       3. Ability to comment on it or make a a follow-up video log
+- As a user, I want to be able to know that people are receiving my posts to feel like I'm being heard.
+  - Estimation of Effort: Low
+    - Acceptance of Criteria:
+      1. Notification when a message is received by someone else.
+      2. A tracker that shows how many times a messages was received by someone else.
+      3. A tracker to see how many times messages were sent each day.
+- As a user, I want tp see the statuses of my messages all at once.
+  - Estimation of Effort: Hard
+    - Acceptance of Criteria:
+      1. A feed to show messages I wrote, messages received, and replies.
+      2. Clear indication of which message type each one is.
+      3. Ability to categorize feed by type of message, categories, and who they are from.
+- As a user, I want incentive to go to places where a lot of other users usually go so I can increase the likelihood my messages are shared.
+  - Estimation of Effort: Medium/Hard
+    - Acceptance of Criteria:
+      1. Indications of places where users in the neighborhood commonly share messages.
+      2. The ability to set markers to encourage other users to go there to share messages.
 
 ## Activity Diagrams
 
