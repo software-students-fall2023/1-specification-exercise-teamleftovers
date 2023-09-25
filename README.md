@@ -168,6 +168,25 @@ An empathetic safe space that nurtures wellness, positivity and community morale
   - Acceptance Criteria:
     1. Option to pick what type of responses that the user wants to receive
     2. Ability to write a memo and share it with others automatically as they pass by each other
+- As a user, I want to customize my location radius to send and receive messages
+  - Estimation of Effort: Medium/Hard
+  - Acceptance of Criteria:
+    1. Abilty to change proximity radius
+- As a user, I want to choose to engage in a conversation with stranger or not
+  - Estimation of Effort: Medium
+    - Acceptance of Criteria:
+      1. Ability to engage in a text conversation if I want to respond/interact with another user's affirmation or 'kind words' 
+      2. Can create a further, deeper connection with that person if they wanted to
+- As a user, I want seperate sub-platforms to receieve or send positive messages to and from friends or to and from strangers
+  - Estimation of Effort: Medium/Hard
+    - Acceptance of Criteria:
+      1. Option to have a 'Friends only' and 'Commnity only' section in the app
+- As a user, I want to create video logs for personal growth
+  - Estimation of Effort: Medium/Hard
+    - Acceptance of Criteria:
+      1. Option to create video logs and playback at a later time. 
+      2. Ability to organize video logs by topic or theme 
+      3. Ability to comment on it or make a a follow-up video log
 
 ## Activity Diagrams
 
