@@ -215,7 +215,7 @@ An empathetic safe space that nurtures wellness, positivity and community morale
       1. Notification when a message is received by someone else.
       2. A tracker that shows how many times a messages was received by someone else.
       3. A tracker to see how many times messages were sent each day.
-- As a user, I want tp see the statuses of my messages all at once.
+- As a user, I want to see the statuses of my messages all at once.
   - Estimation of Effort: Hard
     - Acceptance of Criteria:
       1. A feed to show messages I wrote, messages received, and replies.
@@ -226,6 +226,17 @@ An empathetic safe space that nurtures wellness, positivity and community morale
     - Acceptance of Criteria:
       1. Indications of places where users in the neighborhood commonly share messages.
       2. The ability to set markers to encourage other users to go there to share messages.
+- As a user, I want goals and a sense of progression so I can see real change in my mental health.
+  - Estimation of Effort: Hard
+    - Acceptance of Criteria:
+      1. Some system that helps track User's mental health via some variation of daily notes.
+      2. A check-in system to provide proof of change in the user's change over time.
+- As a user, I want to customize the app in a way that makes me feel comfortable. 
+  - Estimation of Effort: Low/Medium
+    - Acceptance of Criteria:
+      1. Tools to change the app UI's colors
+      2. Change layout of UI
+      3. Implement stickers or imagery to fit user's mood or preferences.
 
 ## Activity Diagrams
 
