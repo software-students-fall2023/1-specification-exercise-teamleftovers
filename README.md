@@ -137,6 +137,28 @@ For the link to Github Profiles, click the names.
   - A professional, licensed therapist advised them to do try this
 - They would like quick or templated responses and/or emoji reactions as well
 
+### Stressed Finance Student - End User
+#### Date: 9/25/2023
+#### Goals/Needs:
+- Users should be encouraged to share with honesty and open understanding.
+- Something that rewards positivity and actively discourages negative responses via some system (vote, medals, etc)
+- A safe environment that is free from any form of discrimination or bigotry.
+- Would like the app to add some form of progression for people with long-term goals.
+#### Problems/Frustrations:
+- Worried that higher accessibility would give malicious individuals a platform to target vulnerable people.
+- Worried that heavy moderation might feel close to an invasion of privacy.
+- Even people with good intentions might give unhelpful advice or actively harmful advice.
+- Not everyone wants their advice the same way. Some people would like to be more straightforward, while others may want comfort.
+#### Other notes:
+- The app should be relaxing and cozy.
+  - No flashing lights or large pop-ups. Avoid things that may overwhelm users, especially for those with disabilities.
+  - Customization should be important as it allows users to create their own safe space.
+- Daily logs and prompts that asks updates from the user to check on their progress.
+  - Daily gratitutes/methods of daily reflection.
+- Feels that they would not share serious issues on the app, but claims it is not necessarily a bad thing.
+  - "Sometimes people have petty problems that bother them, but are afraid of dumping these struggles on their friends. Anonymity lets them trade advice for smaller problems."
+  
+
 
   
 ## Product Vision Statement
@@ -151,7 +173,7 @@ An empathetic safe space that nurtures wellness, positivity and community morale
     1. Ability to respond to messages received from others
     2. Option to leave positive messages at a certain location
     3. Allow the sharer to categorize the message
-    4. Counter or feedback response for responder to see if the message was helpful
+    4. Counter or feedback response for responder to see if the message was helpfu
 - As a user, I want to feel safe emotionally on the platform so I can share vulnerable feelings and receive help.
   - Estimation of Effort: Low
   - Acceptance Criteria:
