@@ -241,10 +241,10 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 ## Activity Diagrams
 
 ### Receive Message Activity Diagram
-![Receive Message Activity Diagram](Receive Message Activity Diagram.png)
+![Receive Message Activity Diagram](Receive_Message_Activity_Diagram.png)
 
 ### Report Message Activity Diagram
-![Report Message Activity Diagram](Report Message Activity Diagram.png)
+![Report Message Activity Diagram](Report_Message_Activity_Diagram.png)
 
 ## Clickable Prototype
 
