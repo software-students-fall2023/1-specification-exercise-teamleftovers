@@ -173,7 +173,7 @@ An empathetic safe space that nurtures wellness, positivity and community morale
     1. Ability to respond to messages received from others
     2. Option to leave positive messages at a certain location
     3. Allow the sharer to categorize the message
-    4. Counter or feedback response for responder to see if the message was helpfu
+    4. Counter or feedback response for responder to see if the message was helpful
 - As a user, I want to feel safe emotionally on the platform so I can share vulnerable feelings and receive help.
   - Estimation of Effort: Low
   - Acceptance Criteria:
@@ -240,7 +240,11 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Receive Message Activity Diagram
+![Receive Message Activity Diagram](Receive Message Activity Diagram.png)
+
+### Report Message Activity Diagram
+![Report Message Activity Diagram](Report Message Activity Diagram.png)
 
 ## Clickable Prototype
 
