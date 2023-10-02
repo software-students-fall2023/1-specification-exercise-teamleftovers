@@ -241,11 +241,18 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 ## Activity Diagrams
 
 ### Receive Message Activity Diagram
+
+- User Story: As a user, I want to be able to receive messages so I can feel heard or get advice from others in times of need.
+- User Story: As a user, I want to be able to share positive messages so I can help others going through a difficult time.
+
 ![Receive Message Activity Diagram](Receive_Message_Activity_Diagram.png)
 
 ### Report Message Activity Diagram
+
+- User Story: As a user, I want to feel safe emotionally on the platform so I can share vulnerable feelings and receive help.
+
 ![Report Message Activity Diagram](Guidelines_Report_Activity_Diagram.png)
 
 ## Clickable Prototype
 
-To view our clickable prototype, click [here](https://www.figma.com/file/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=0%3A1&mode=design&t=xJ9PUoycu3KoI5L7-1)!
+To view our figma diagram and clickable prototype, click [here](https://www.figma.com/file/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=0%3A1&mode=design&t=xJ9PUoycu3KoI5L7-1)!
