@@ -253,7 +253,10 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 
 ![Report Message Activity Diagram](Guidelines_Report_Activity_Diagram.png)
 
-## Clickable Prototype
+## Wireframe Diagrams
 
 To view our figma diagram, click [here](https://www.figma.com/file/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=0%3A1&mode=design&t=xJ9PUoycu3KoI5L7-1)!
+
+## Clickable Prototype
+
 To view our clickable prototype, click [here](https://www.figma.com/proto/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=3-2&t=mRssN1tG9QjwJ8c2-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&mode=design)!
