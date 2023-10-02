@@ -244,7 +244,7 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 ![Receive Message Activity Diagram](Receive_Message_Activity_Diagram.png)
 
 ### Report Message Activity Diagram
-![Report Message Activity Diagram](Report_Message_Activity_Diagram.png)
+![Report Message Activity Diagram](Guidelines_Report_Activity_Diagram.png)
 
 ## Clickable Prototype
 
