@@ -255,4 +255,4 @@ An empathetic safe space that nurtures wellness, positivity and community morale
 
 ## Clickable Prototype
 
-To view our clickable prototype, click [here](https://www.figma.com/file/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=0%3A1&mode=design&t=xJ9PUoycu3KoI5L7-1)!
+To view our figma diagram and clickable prototype, click [here](https://www.figma.com/file/BQPYaMnywuL0DcnP4S9JRG/Untitled?type=design&node-id=0%3A1&mode=design&t=xJ9PUoycu3KoI5L7-1)!
